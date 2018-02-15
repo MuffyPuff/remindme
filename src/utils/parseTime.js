@@ -1,4 +1,4 @@
-const timeParser = require('time-parser');
+const timeParser = require('parsetime');
 
 const shorthandRX = /^ *([0-9]+) *(s|m|h|d|w) *$/i;
 const shorthandTimes = {
