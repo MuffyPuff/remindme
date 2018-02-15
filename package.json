@@ -27,7 +27,7 @@
     "moment-duration-format": "^2.1.1",
     "mongodb": "^3.0.1",
     "os-utils": "^0.0.14",
-    "time-parser": "^0.2.10"
+    "parsetime": "^0.2.9"
   },
   "devDependencies": {
     "eslint": "^4.14.0"
